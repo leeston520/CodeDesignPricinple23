@@ -3,6 +3,7 @@ package com.lee.designPattern.单例;
 public class 单例模式 {
 
     public static void main(String[] args) {
+        // 版本说明
 
         Singleton instance = Singleton.getInstance();
         Singleton instance1 = Singleton.getInstance();
