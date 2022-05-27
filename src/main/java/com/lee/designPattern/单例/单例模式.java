@@ -56,6 +56,7 @@ class Singleton2 {
 
 // 线程不安全的懒汉式
 class Singleton3{
+    // 第三版
 
     private static Singleton3 instance;
 
