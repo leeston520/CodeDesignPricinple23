@@ -2,6 +2,7 @@ package com.lee.designPattern.原型模式.app;
 
 public class D1 {
     public static void main(String[] args) {
+        System.out.println("dev branch...");
         int[] arr = {2, 2, 5, 5, 3, 1, 2, 7};
 
         Integer[] ret = new Integer[8];
