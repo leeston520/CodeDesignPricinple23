@@ -48,7 +48,6 @@ class Singleton2 {
     }
 
     private static Singleton2 instance2;
-
     public static Singleton2 getInstance() {
         return instance2;
     }
